@@ -4,6 +4,10 @@
 
 This project involves designing, normalizing, and querying a MySQL database for an employee management system. The project covers conceptual and logical database design, normalization to 3NF, and execution of complex SQL queries for data manipulation and analysis.
 
+## Full Report
+
+To visualize the full report, including diagrams, queries, and detailed explanations, click [here](https://github.com/federicoariton/Project-5-Database-Mysql/blob/main/CA1%20Database%20FedericoAriton.pdf).
+
 ---
 
 ## Objectives
